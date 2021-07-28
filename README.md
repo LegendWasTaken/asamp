@@ -1,2 +1,2 @@
 # asp
-A C++ library for adaptative sampling
+A C++ library for adaptive sampling
